@@ -17,8 +17,8 @@ st.set_page_config(
 # -------------------------------------------------------------------------
 # Constants (GitHub & Portfolio links)
 # -------------------------------------------------------------------------
-GITHUB_URL = "https://github.com/akhileshnuth"  # change if needed
-PORTFOLIO_URL = "https://akhilesh-portfolio-app.vercel.app/"  # 🔗 your portfolio (update if needed)
+GITHUB_URL = "https://github.com/akhileshnuth/parkinsons-disease-prediction"  # change if needed
+PORTFOLIO_URL = "https://AkhileshNuth-portfolio-app.vercel.app/"  # 🔗 your portfolio (update if needed)
 
 # -------------------------------------------------------------------------
 # Modern UI styling

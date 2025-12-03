@@ -10,10 +10,13 @@ It is **not** a medical diagnostic tool.
 ### 🚀 Live Demo  
 🔗 **App Link:** **https://parkinsons-disease-prediction-cro438tn2ubd2okdqyr7hz.streamlit.app/**
 
+👉 **[Open Live App](https://parkinsons-disease-prediction-cro438tn2ubd2okdqyr7hz.streamlit.app/)**
+
 ---
 
-## 📁 Project Repository  
-GitHub Link: **https://github.com/akhileshnuth/parkinsons-disease-prediction**
+### 📁 Project Repository  
+📌 **[GitHub Repo](https://github.com/akhileshnuth/parkinsons-disease-prediction)**
+
 
 ---
 
