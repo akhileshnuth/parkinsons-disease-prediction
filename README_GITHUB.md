@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/akhileshnuth/branding/main/parkinsons-banner.png" 
-       alt="Parkinson's Disease Prediction Banner" 
-       width="100%">
-</p>
 
 <h1 align="center">🧠 Parkinson's Disease Prediction App</h1>
 
@@ -21,13 +16,12 @@
 ---
 
 ## 🚀 Live Demo  
-(Add your deployed link here)
+https://parkinsons-disease-prediction-cro438tn2ubd2okdqyr7hz.streamlit.app/
 
 ---
 
 ## 📁 Project Repository  
 https://github.com/akhileshnuth/parkinsons-disease-prediction
-
 ---
 
 ## 🎯 Features  
