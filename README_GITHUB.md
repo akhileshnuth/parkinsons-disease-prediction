@@ -17,9 +17,12 @@
 
 ### 🚀 Live Demo  
 👉 **[Open Live App](https://parkinsons-disease-prediction-cro438tn2ubd2okdqyr7hz.streamlit.app/)**
+
 ---
+
 ### 📁 Project Repository  
 📌 **[GitHub Repo](https://github.com/akhileshnuth/parkinsons-disease-prediction)**
+
 
 ---
 
